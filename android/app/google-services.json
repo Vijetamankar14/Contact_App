@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506762279253",
+    "project_id": "contactapp-ff0ab",
+    "storage_bucket": "contactapp-ff0ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506762279253:android:8297e2fd172426287f57dc",
+        "android_client_info": {
+          "package_name": "com.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJajQBxJ0a62gqS-oiIo7FSL3_3eYDJf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506762279253:android:70073e721ef561737f57dc",
+        "android_client_info": {
+          "package_name": "com.example.contact_form_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJajQBxJ0a62gqS-oiIo7FSL3_3eYDJf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
