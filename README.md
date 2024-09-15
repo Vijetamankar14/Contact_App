@@ -1,4 +1,4 @@
-# contact_form_app
+# Contact Application
 
 This Flutter-based Contact Management App allows users to add, store, and display contacts using Firebase Firestore. It supports real-time data synchronization and offers a clean UI to manage contacts effortlessly.
 
