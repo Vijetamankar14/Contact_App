@@ -1,16 +1,10 @@
 # contact_form_app
 
-A new Flutter project.
+This Flutter-based Contact Management App allows users to add, store, and display contacts using Firebase Firestore. It supports real-time data synchronization and offers a clean UI to manage contacts effortlessly.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add New Contacts: Save contact details including name, email, phone number, and address.
+- Real-Time Updates: New contacts appear instantly in the contact list thanks to Firestore's real-time capabilities.
+- Firebase Integration: The app is connected to Firebase Firestore for secure data storage.
+- Responsive UI: Uses Flutter’s Material Design widgets, including Cards for displaying contacts.
